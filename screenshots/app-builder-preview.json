@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 26,
+      "bodyTextHash": "912532ce3839b7f8b0f2cf9c82512b110a458d2481462572df0be3435e14fafe",
+      "bodyTextPrefix": "Vesper Opening your inbox…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 26,
+      "bodyTextHash": "912532ce3839b7f8b0f2cf9c82512b110a458d2481462572df0be3435e14fafe",
+      "bodyTextPrefix": "Vesper Opening your inbox…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
