@@ -1,0 +1,1 @@
+import{u as e}from"./preload-helper-DOGIseSy.js";import{t}from"./gate-Chz6Bqtd.js";import{t as n}from"./index-BtD8wX9S.js";var r=e();function i(){let{id:e}=n.useParams();return(0,r.jsx)(t,{selectedId:decodeURIComponent(e)})}export{i as component};

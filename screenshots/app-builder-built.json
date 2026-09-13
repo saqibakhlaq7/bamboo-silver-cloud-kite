@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 312,
+      "bodyTextHash": "9ac8687531d54db8b91ce495d162925b0f00bbf6554a2c67f06ba862933d72fb",
+      "bodyTextPrefix": "LOCAL-FIRST Messages that live on this device. Sign in with a us",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "599e7b7292ba0deed631ec42400ef75dbe92a2d12f89f31adfac8f33ea4a5487",
+      "bodyTextPrefix": "Vesper Username. Local history. Calls. Welcome back Sign in with",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (26 -> 312 chars, hash mismatch)",
+    "mobile: body text changed (26 -> 185 chars, hash mismatch)"
+  ]
+}
